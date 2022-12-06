@@ -32,7 +32,7 @@ Each character of the snake tells you what direction the snake is currently head
 - s, S, or v denotes down
 - d, D, or > denotes right
 
-##Skills I exercised
+## What I learned
 - using pointers in C
 - manual memory management in C using `malloc`, `calloc`, and `free`
 - writing unit and integration tests in python
