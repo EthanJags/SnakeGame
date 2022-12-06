@@ -18,9 +18,9 @@ Example game state:
 ```
 The grid has the following special characters:
 
-- # denotes a wall.
+- ```#``` denotes a wall.
 - (space character) denotes an empty space.
-- * denotes a fruit.
+- ```*``` denotes a fruit.
 - wasd denotes the tail of a snake.
 - ^<v> denotes the body of a snake.
 - WASD denotes the head of a snake.
