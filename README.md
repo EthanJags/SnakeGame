@@ -37,5 +37,5 @@ Each character of the snake tells you what direction the snake is currently head
 - manual memory management in C using `malloc`, `calloc`, and `free`
 - writing unit and integration tests in python
 
-##Acknowledgements
+## Acknowledgements
 This project was part of my coursework in UC Berkeley's CS61C Computer Architecture course. More details regarding the documentation of this project can be found [here](https://cs61c.org/fa22/projects/proj1/#conceptual-overview). Since this is a class project, I cannot post the code publicly, but can make it available upon request.
